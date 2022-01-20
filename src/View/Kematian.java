@@ -335,7 +335,7 @@ public class Kematian extends javax.swing.JFrame {
         jLabel9.setText("Pekerjaan");
         jPanel1.add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(402, 190, -1, -1));
 
-        jPanel1.add(cbpekerjaan, new org.netbeans.lib.awtextra.AbsoluteConstraints(482, 185, 190, -1));
+        jPanel1.add(cbpekerjaan, new org.netbeans.lib.awtextra.AbsoluteConstraints(482, 185, 180, -1));
 
         btncari.setFont(new java.awt.Font("Trebuchet MS", 0, 12)); // NOI18N
         btncari.setText("Cari");
@@ -357,7 +357,7 @@ public class Kematian extends javax.swing.JFrame {
         jLabel14.setText("Cari");
         jPanel1.add(jLabel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(1400, 300, 32, 41));
 
-        jPanel1.add(cbshdrt, new org.netbeans.lib.awtextra.AbsoluteConstraints(482, 143, 135, -1));
+        jPanel1.add(cbshdrt, new org.netbeans.lib.awtextra.AbsoluteConstraints(482, 143, 180, -1));
 
         txttl.setFont(new java.awt.Font("Trebuchet MS", 0, 12)); // NOI18N
         jPanel1.add(txttl, new org.netbeans.lib.awtextra.AbsoluteConstraints(104, 188, 252, -1));
@@ -466,9 +466,9 @@ public class Kematian extends javax.swing.JFrame {
         jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(12, 106, -1, -1));
 
         cbgoldar.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Plih Gol. Darah", "A", "B", "O", "AB" }));
-        jPanel1.add(cbgoldar, new org.netbeans.lib.awtextra.AbsoluteConstraints(482, 59, 119, -1));
+        jPanel1.add(cbgoldar, new org.netbeans.lib.awtextra.AbsoluteConstraints(482, 59, 180, -1));
 
-        jPanel1.add(cbagama, new org.netbeans.lib.awtextra.AbsoluteConstraints(482, 101, 135, -1));
+        jPanel1.add(cbagama, new org.netbeans.lib.awtextra.AbsoluteConstraints(482, 101, 180, -1));
 
         txtnama.setFont(new java.awt.Font("Trebuchet MS", 0, 12)); // NOI18N
         jPanel1.add(txtnama, new org.netbeans.lib.awtextra.AbsoluteConstraints(104, 104, 252, -1));
